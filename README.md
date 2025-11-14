@@ -19,7 +19,6 @@ Key outcomes of the analysis are the recommendations for future marketing campai
 ## Repository contents
 1. Bank Marketing Analysis.ipynb - Jupyter Notebook (Python 3) which contains code for the analysis.
 2. bank.csv - dataset used for the analysis.
-3. rawpixel-594763-unsplash.jpg - image, used in the Jupyter Notebook.
 
 ## External references
 1. __[Dataset on kaggle](https://www.kaggle.com/janiobachmann/bank-marketing-dataset)__
